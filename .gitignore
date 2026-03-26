@@ -1,0 +1,21 @@
+# Hidden/dot folders
+.agents/
+.claude/
+.augment/
+
+# Build artifacts
+*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+skills-lock.json
+outline.md
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
